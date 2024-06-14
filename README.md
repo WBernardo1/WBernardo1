@@ -1,0 +1,1 @@
+Olá! Sou Wictor Bernardo, jornalista e ilustrador de Recife, atualmente morando em Itapissuma. Tenho 35 anos, estou em transição de carreira para a área de programação, focando em análise de dados com Python. Siga-me para acompanhar minha jornada e ver meus insights sobre o mundo dos dados!
